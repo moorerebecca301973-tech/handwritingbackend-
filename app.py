@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # --- GitHub model file ---
-MODEL_URL = "https://github.com/<your-username>/<repo-name>/releases/download/v1.0/best_writer_model.keras"
+MODEL_URL = "https://github.com/moorerebecca301973-tech/model/releases/download/verson/best_writer_model.keras"
 MODEL_PATH = "best_writer_model.keras"
 
 # --- Download model if not present ---
